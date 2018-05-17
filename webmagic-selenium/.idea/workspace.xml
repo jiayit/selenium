@@ -1,0 +1,1384 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99c22733-6317-4527-8c4f-18c3bc320923" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/webmagic_selenium$TestProcessor.coverage" NAME="TestProcessor Coverage Results" MODIFIED="1525766870540" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>us.codecraft.webmagic.samples.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="TestProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/TestProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ThreadProcessor.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/ThreadProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="196">
+              <caret line="34" column="58" lean-forward="false" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HuabanProcessor.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/HuabanProcessor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="783">
+              <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RemoteWebElement.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.41.0/selenium-remote-driver-2.41.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5805">
+              <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
+              <folding>
+                <marker date="1517542305632" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1517542305632" expanded="false" signature="150:1183" ph="..." />
+                <marker date="1517542305632" expanded="true" signature="1568:1575" ph="{}" />
+                <marker date="1517542305632" expanded="true" signature="1661:1750" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="1802:1892" ph="{...}" />
+                <marker date="1517542305632" expanded="false" signature="1919:1930" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="1945:1951" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="1985:1996" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="2009:2015" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="2071:2082" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="2111:2117" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="2142:2153" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="2214:2220" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="2246:2257" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="2319:2325" ph=" }" />
+                <marker date="1517542305632" expanded="true" signature="2380:2832" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="2876:3419" ph="{...}" />
+                <marker date="1517542305632" expanded="false" signature="3444:3455" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="3516:3522" ph=" }" />
+                <marker date="1517542305632" expanded="true" signature="3555:3663" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="3709:3894" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="3928:4247" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="4280:4598" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="4628:4771" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="4824:5011" ph="{...}" />
+                <marker date="1517542305632" expanded="false" signature="5060:5071" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="5100:5106" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="5148:5159" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="5187:5193" ph=" }" />
+                <marker date="1517542305632" expanded="true" signature="5260:5787" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="5861:6551" ph="{...}" />
+                <marker date="1517542305632" expanded="false" signature="6604:6615" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="6652:6658" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="6718:6729" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="6767:6773" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="6832:6843" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="6887:6893" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="6959:6970" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7015:7021" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="7076:7087" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7126:7132" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="7194:7205" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7245:7251" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="7311:7322" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7367:7373" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="7440:7451" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7497:7503" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="7565:7576" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7623:7629" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="7698:7709" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7757:7763" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="7819:7830" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7870:7876" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="7939:7950" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="7991:7997" ph=" }" />
+                <marker date="1517542305632" expanded="true" signature="8064:8132" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="8206:8275" ph="{...}" />
+                <marker date="1517542305632" expanded="false" signature="8333:8344" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="8387:8393" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="8458:8469" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="8513:8519" ph=" }" />
+                <marker date="1517542305632" expanded="true" signature="8595:8659" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="8699:9700" ph="{...}" />
+                <marker date="1517542305632" expanded="false" signature="9727:9738" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="9764:9770" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="9811:9822" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="9841:9847" ph=" }" />
+                <marker date="1517542305632" expanded="true" signature="9882:10202" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="10235:10547" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="10580:10916" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="10958:11764" ph="{...}" />
+                <marker date="1517542305632" expanded="true" signature="10993:11757" ph="{...}" />
+                <marker date="1517542305632" expanded="false" signature="11030:11049" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="11111:11125" ph=" }" />
+                <marker date="1517542305632" expanded="true" signature="11165:11524" ph="{...}" />
+                <marker date="1517542305632" expanded="false" signature="11559:11578" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="11621:11635" ph=" }" />
+                <marker date="1517542305632" expanded="false" signature="11677:11696" ph=" { " />
+                <marker date="1517542305632" expanded="false" signature="11733:11747" ph=" }" />
+                <marker date="1517542305632" expanded="true" signature="11795:11938" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebElement.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebElement.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="297">
+              <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+              <folding>
+                <marker date="1517542305513" expanded="false" signature="0:104" ph="/.../" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WebDriverException.class" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebDriverException.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="567">
+              <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+              <folding>
+                <marker date="1517542305513" expanded="false" signature="0:104" ph="/.../" />
+                <marker date="1517542305513" expanded="false" signature="143:352" ph="..." />
+                <marker date="1517542305513" expanded="true" signature="623:630" ph="{}" />
+                <marker date="1517542305513" expanded="false" signature="677:688" ph=" { " />
+                <marker date="1517542305513" expanded="false" signature="703:709" ph=" }" />
+                <marker date="1517542305513" expanded="false" signature="757:768" ph=" { " />
+                <marker date="1517542305513" expanded="false" signature="781:787" ph=" }" />
+                <marker date="1517542305513" expanded="false" signature="851:862" ph=" { " />
+                <marker date="1517542305513" expanded="false" signature="884:890" ph=" }" />
+                <marker date="1517542305513" expanded="true" signature="922:933" ph=" { " />
+                <marker date="1517542305513" expanded="true" signature="979:985" ph=" }" />
+                <marker date="1517542305513" expanded="true" signature="1050:1407" ph="{...}" />
+                <marker date="1517542305513" expanded="true" signature="1450:1999" ph="{...}" />
+                <marker date="1517542305513" expanded="false" signature="2034:2045" ph=" { " />
+                <marker date="1517542305513" expanded="false" signature="2057:2063" ph=" }" />
+                <marker date="1517542305513" expanded="false" signature="2107:2118" ph=" { " />
+                <marker date="1517542305513" expanded="false" signature="2141:2147" ph=" }" />
+                <marker date="1517542305513" expanded="true" signature="2228:2685" ph="{...}" />
+                <marker date="1517542305513" expanded="false" signature="2736:2747" ph=" { " />
+                <marker date="1517542305513" expanded="false" signature="2778:2784" ph=" }" />
+                <marker date="1517542305513" expanded="true" signature="2831:3603" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>selenuim_config</find>
+      <find>system.get</find>
+      <find>driver</find>
+    </findStrings>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/us/codecraft/webmagic/downloader/selenium/WebDriverPool.java" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/HuabanProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/TestProcessor.java" />
+        <option value="$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/ThreadProcessor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="83" />
+    <option name="y" value="14" />
+    <option name="width" value="1810" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="webmagic-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webmagic-selenium" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webmagic-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webmagic-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webmagic-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webmagic-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webmagic-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webmagic-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webmagic-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webmagic-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="webmagic-selenium" type="b2602c69:ProjectViewProjectNode" />
+              <item name="webmagic-selenium" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="webmagic" type="462c0819:PsiDirectoryNode" />
+              <item name="samples" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.ThreadProcessor">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration name="HuabanProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="us.codecraft.webmagic.samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="us.codecraft.webmagic.samples.HuabanProcessor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="webmagic-selenium" />
+      <envs />
+    </configuration>
+    <configuration name="TestProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="us.codecraft.webmagic.samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="us.codecraft.webmagic.samples.TestProcessor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="webmagic-selenium" />
+      <envs />
+    </configuration>
+    <configuration name="ThreadProcessor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="us.codecraft.webmagic.samples.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="us.codecraft.webmagic.samples.ThreadProcessor" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="webmagic-selenium" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="3">
+      <item index="0" class="java.lang.String" itemvalue="Application.HuabanProcessor" />
+      <item index="1" class="java.lang.String" itemvalue="Application.TestProcessor" />
+      <item index="2" class="java.lang.String" itemvalue="Application.ThreadProcessor" />
+    </list>
+    <recent_temporary>
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Application.ThreadProcessor" />
+        <item index="1" class="java.lang.String" itemvalue="Application.TestProcessor" />
+        <item index="2" class="java.lang.String" itemvalue="Application.HuabanProcessor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="99c22733-6317-4527-8c4f-18c3bc320923" name="Default" comment="" />
+      <created>1525680818805</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525680818805</updated>
+      <workItem from="1525680820091" duration="11747000" />
+      <workItem from="1525746885095" duration="17374000" />
+      <workItem from="1526525841163" duration="824000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="29945000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19936034" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31071427" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32857144" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/HuabanProcessor.java</url>
+          <line>23</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/HuabanProcessor.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/HuabanProcessor.java</url>
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/Spider.class</url>
+          <line>383</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/TestProcessor.java</url>
+          <line>77</line>
+          <properties />
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/HuabanProcessor.java</url>
+          <line>21</line>
+          <properties class="us.codecraft.webmagic.samples.HuabanProcessor" method="process">
+            <option name="EMULATED" value="true" />
+          </properties>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="50" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/HuabanProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="34" column="9" lean-forward="true" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.41.0/selenium-remote-driver-2.41.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5805">
+          <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
+          <folding>
+            <marker date="1517542305632" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517542305632" expanded="false" signature="150:1183" ph="..." />
+            <marker date="1517542305632" expanded="true" signature="1568:1575" ph="{}" />
+            <marker date="1517542305632" expanded="true" signature="1661:1750" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="1802:1892" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="1919:1930" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="1945:1951" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="1985:1996" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2009:2015" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2071:2082" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2111:2117" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2142:2153" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2214:2220" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2246:2257" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2319:2325" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="2380:2832" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="2876:3419" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="3444:3455" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="3516:3522" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="3555:3663" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="3709:3894" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="3928:4247" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4280:4598" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4628:4771" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4824:5011" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="5060:5071" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="5100:5106" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="5148:5159" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="5187:5193" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="5260:5787" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="5861:6551" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="6604:6615" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6652:6658" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6718:6729" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6767:6773" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6832:6843" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6887:6893" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6959:6970" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7015:7021" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7076:7087" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7126:7132" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7194:7205" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7245:7251" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7311:7322" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7367:7373" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7440:7451" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7497:7503" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7565:7576" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7623:7629" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7698:7709" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7757:7763" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7819:7830" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7870:7876" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7939:7950" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7991:7997" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="8064:8132" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="8206:8275" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="8333:8344" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="8387:8393" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="8458:8469" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="8513:8519" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="8595:8659" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="8699:9700" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="9727:9738" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="9764:9770" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="9811:9822" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="9841:9847" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="9882:10202" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10235:10547" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10580:10916" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10958:11764" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10993:11757" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="11030:11049" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11111:11125" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="11165:11524" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="11559:11578" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11621:11635" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="11677:11696" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11733:11747" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="11795:11938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1517542305513" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebDriverException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <marker date="1517542305513" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517542305513" expanded="false" signature="143:352" ph="..." />
+            <marker date="1517542305513" expanded="true" signature="623:630" ph="{}" />
+            <marker date="1517542305513" expanded="false" signature="677:688" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="703:709" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="757:768" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="781:787" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="851:862" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="884:890" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="922:933" ph=" { " />
+            <marker date="1517542305513" expanded="true" signature="979:985" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="1050:1407" ph="{...}" />
+            <marker date="1517542305513" expanded="true" signature="1450:1999" ph="{...}" />
+            <marker date="1517542305513" expanded="false" signature="2034:2045" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2057:2063" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="2107:2118" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2141:2147" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="2228:2685" ph="{...}" />
+            <marker date="1517542305513" expanded="false" signature="2736:2747" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2778:2784" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="2831:3603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/ThreadProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2484">
+          <caret line="107" column="36" lean-forward="true" selection-start-line="107" selection-start-column="36" selection-end-line="107" selection-end-column="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/TestProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.41.0/selenium-remote-driver-2.41.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1836">
+          <caret line="107" column="0" lean-forward="false" selection-start-line="107" selection-start-column="0" selection-end-line="107" selection-end-column="0" />
+          <folding>
+            <marker date="1517542305632" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517542305632" expanded="false" signature="150:1183" ph="..." />
+            <marker date="1517542305632" expanded="true" signature="1568:1575" ph="{}" />
+            <marker date="1517542305632" expanded="true" signature="1661:1750" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="1802:1892" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="1919:1930" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="1945:1951" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="1985:1996" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2009:2015" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2071:2082" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2111:2117" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2142:2153" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2214:2220" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2246:2257" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2319:2325" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="2380:2832" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="2876:3419" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="3444:3455" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="3516:3522" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="3555:3663" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="3709:3894" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="3928:4247" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4280:4598" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4628:4771" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4824:5011" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="5060:5071" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="5100:5106" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="5148:5159" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="5187:5193" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="5260:5787" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="5861:6551" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="6604:6615" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6652:6658" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6718:6729" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6767:6773" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6832:6843" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6887:6893" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6959:6970" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7015:7021" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7076:7087" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7126:7132" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7194:7205" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7245:7251" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7311:7322" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7367:7373" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7440:7451" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7497:7503" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7565:7576" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7623:7629" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7698:7709" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7757:7763" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7819:7830" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7870:7876" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7939:7950" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7991:7997" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="8064:8132" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="8206:8275" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="8333:8344" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="8387:8393" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="8458:8469" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="8513:8519" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="8595:8659" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="8699:9700" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="9727:9738" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="9764:9770" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="9811:9822" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="9841:9847" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="9882:10202" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10235:10547" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10580:10916" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10958:11764" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10993:11757" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="11030:11049" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11111:11125" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="11165:11524" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="11559:11578" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11621:11635" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="11677:11696" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11733:11747" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="11795:11938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7614">
+          <caret line="322" column="13" lean-forward="false" selection-start-line="322" selection-start-column="13" selection-end-line="322" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+          <folding>
+            <marker date="1517542305513" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebDriverException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <marker date="1517542305513" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517542305513" expanded="false" signature="143:352" ph="..." />
+            <marker date="1517542305513" expanded="true" signature="623:630" ph="{}" />
+            <marker date="1517542305513" expanded="false" signature="677:688" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="703:709" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="757:768" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="781:787" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="851:862" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="884:890" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="922:933" ph=" { " />
+            <marker date="1517542305513" expanded="true" signature="979:985" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="1050:1407" ph="{...}" />
+            <marker date="1517542305513" expanded="true" signature="1450:1999" ph="{...}" />
+            <marker date="1517542305513" expanded="false" signature="2034:2045" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2057:2063" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="2107:2118" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2141:2147" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="2228:2685" ph="{...}" />
+            <marker date="1517542305513" expanded="false" signature="2736:2747" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2778:2784" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="2831:3603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/InvalidSelectorException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="65" column="0" lean-forward="false" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/FileInputStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-862">
+          <caret line="194" column="0" lean-forward="false" selection-start-line="194" selection-start-column="0" selection-end-line="194" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/io/FileReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="515">
+          <caret line="57" column="0" lean-forward="false" selection-start-line="57" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/System.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2297">
+          <caret line="712" column="25" lean-forward="false" selection-start-line="712" selection-start-column="25" selection-end-line="712" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/downloader/selenium/SeleniumDownloaderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/Properties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="164" column="31" lean-forward="false" selection-start-line="164" selection-start-column="31" selection-end-line="164" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/webmagic/downloader/selenium/WebDriverPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="756">
+          <caret line="47" column="95" lean-forward="false" selection-start-line="47" selection-start-column="95" selection-end-line="47" selection-end-column="95" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/utils/FilePersistentBase.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/pipeline/FilePipeline.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="31" column="0" lean-forward="false" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/log4j/log4j/1.2.17/log4j-1.2.17.jar!/org/apache/log4j/Logger.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/slf4j/slf4j-api/1.7.6/slf4j-api-1.7.6.jar!/org/slf4j/LoggerFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="207" column="0" lean-forward="false" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/scheduler/DuplicateRemovedScheduler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/scheduler/QueueScheduler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="24" column="12" lean-forward="false" selection-start-line="24" selection-start-column="12" selection-end-line="24" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/processor/PageProcessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/lang/Thread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="698" column="29" lean-forward="false" selection-start-line="698" selection-start-column="29" selection-end-line="698" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/us/codecraft/webmagic-core/0.7.3/webmagic-core-0.7.3.jar!/us/codecraft/webmagic/Spider.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="383" column="17" lean-forward="true" selection-start-line="383" selection-start-column="17" selection-end-line="383" selection-end-column="17" />
+          <folding>
+            <element signature="e#2618#2619#0" expanded="true" />
+            <element signature="e#2666#2667#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/GooglePlayProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-295">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/us/codecraft/webmagic/downloader/selenium/SeleniumDownloader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="105" column="62" lean-forward="true" selection-start-line="105" selection-start-column="8" selection-end-line="105" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/net/URLConnection.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="191">
+          <caret line="828" column="23" lean-forward="false" selection-start-line="828" selection-start-column="23" selection-end-line="828" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0.jar!/com/google/common/collect/CollectPreconditions.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0.jar!/com/google/common/collect/ImmutableEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0.jar!/com/google/common/collect/ImmutableMapEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0.jar!/com/google/common/collect/AbstractMapEntry.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/InvalidSelectorException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_161/src.zip!/java/util/concurrent/ThreadPoolExecutor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7614">
+          <caret line="322" column="13" lean-forward="false" selection-start-line="322" selection-start-column="13" selection-end-line="322" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/remote/DesiredCapabilities.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="119" column="0" lean-forward="false" selection-start-line="119" selection-start-column="0" selection-end-line="119" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0.jar!/com/google/common/collect/Lists.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="271">
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/JavascriptExecutor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.41.0/selenium-remote-driver-2.41.0.jar!/org/openqa/selenium/remote/Response.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="40" column="18" lean-forward="false" selection-start-line="40" selection-start-column="18" selection-end-line="40" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/By.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="287" column="0" lean-forward="false" selection-start-line="287" selection-start-column="0" selection-end-line="287" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebDriverException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+          <folding>
+            <marker date="1517542305513" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517542305513" expanded="false" signature="143:352" ph="..." />
+            <marker date="1517542305513" expanded="true" signature="623:630" ph="{}" />
+            <marker date="1517542305513" expanded="false" signature="677:688" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="703:709" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="757:768" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="781:787" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="851:862" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="884:890" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="922:933" ph=" { " />
+            <marker date="1517542305513" expanded="true" signature="979:985" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="1050:1407" ph="{...}" />
+            <marker date="1517542305513" expanded="true" signature="1450:1999" ph="{...}" />
+            <marker date="1517542305513" expanded="false" signature="2034:2045" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2057:2063" ph=" }" />
+            <marker date="1517542305513" expanded="false" signature="2107:2118" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2141:2147" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="2228:2685" ph="{...}" />
+            <marker date="1517542305513" expanded="false" signature="2736:2747" ph=" { " />
+            <marker date="1517542305513" expanded="false" signature="2778:2784" ph=" }" />
+            <marker date="1517542305513" expanded="true" signature="2831:3603" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.41.0/selenium-remote-driver-2.41.0.jar!/org/openqa/selenium/remote/RemoteWebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5805">
+          <caret line="290" column="0" lean-forward="false" selection-start-line="290" selection-start-column="0" selection-end-line="290" selection-end-column="0" />
+          <folding>
+            <marker date="1517542305632" expanded="false" signature="0:104" ph="/.../" />
+            <marker date="1517542305632" expanded="false" signature="150:1183" ph="..." />
+            <marker date="1517542305632" expanded="true" signature="1568:1575" ph="{}" />
+            <marker date="1517542305632" expanded="true" signature="1661:1750" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="1802:1892" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="1919:1930" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="1945:1951" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="1985:1996" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2009:2015" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2071:2082" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2111:2117" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2142:2153" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2214:2220" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="2246:2257" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="2319:2325" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="2380:2832" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="2876:3419" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="3444:3455" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="3516:3522" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="3555:3663" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="3709:3894" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="3928:4247" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4280:4598" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4628:4771" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="4824:5011" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="5060:5071" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="5100:5106" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="5148:5159" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="5187:5193" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="5260:5787" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="5861:6551" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="6604:6615" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6652:6658" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6718:6729" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6767:6773" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6832:6843" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="6887:6893" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="6959:6970" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7015:7021" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7076:7087" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7126:7132" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7194:7205" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7245:7251" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7311:7322" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7367:7373" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7440:7451" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7497:7503" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7565:7576" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7623:7629" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7698:7709" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7757:7763" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7819:7830" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7870:7876" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="7939:7950" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="7991:7997" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="8064:8132" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="8206:8275" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="8333:8344" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="8387:8393" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="8458:8469" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="8513:8519" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="8595:8659" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="8699:9700" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="9727:9738" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="9764:9770" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="9811:9822" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="9841:9847" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="9882:10202" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10235:10547" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10580:10916" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10958:11764" ph="{...}" />
+            <marker date="1517542305632" expanded="true" signature="10993:11757" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="11030:11049" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11111:11125" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="11165:11524" ph="{...}" />
+            <marker date="1517542305632" expanded="false" signature="11559:11578" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11621:11635" ph=" }" />
+            <marker date="1517542305632" expanded="false" signature="11677:11696" ph=" { " />
+            <marker date="1517542305632" expanded="false" signature="11733:11747" ph=" }" />
+            <marker date="1517542305632" expanded="true" signature="11795:11938" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0.jar!/com/google/common/collect/ImmutableBiMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebElement.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="14" column="9" lean-forward="false" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <folding>
+            <marker date="1517542305513" expanded="false" signature="0:104" ph="/.../" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-api/2.41.0/selenium-api-2.41.0.jar!/org/openqa/selenium/WebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="86" column="18" lean-forward="false" selection-start-line="86" selection-start-column="18" selection-end-line="86" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/seleniumhq/selenium/selenium-remote-driver/2.41.0/selenium-remote-driver-2.41.0.jar!/org/openqa/selenium/remote/RemoteWebDriver.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="660" column="0" lean-forward="false" selection-start-line="660" selection-start-column="0" selection-end-line="660" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/google/guava/guava/15.0/guava-15.0.jar!/com/google/common/collect/ImmutableMap.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/HuabanProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="783">
+          <caret line="34" column="9" lean-forward="false" selection-start-line="34" selection-start-column="9" selection-end-line="34" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/TestProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/us/codecraft/webmagic/samples/ThreadProcessor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="34" column="58" lean-forward="false" selection-start-line="34" selection-start-column="58" selection-end-line="34" selection-end-column="58" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>webmagic-selenium</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: cglib:cglib-nodep:2.1_3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
